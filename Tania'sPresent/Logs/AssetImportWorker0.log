@@ -1,0 +1,693 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1415; Version 2009; 64bit' Language: 'en' Physical Memory: 15789 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/nick_/Desktop/Projects/Personal/Tania'sPresent
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52590
+Successfully changed project path to: C:/Users/nick_/Desktop/Projects/Personal/Tania'sPresent
+C:/Users/nick_/Desktop/Projects/Personal/Tania'sPresent
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/nick_/Desktop/Projects/Personal/Tania'sPresent/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 with Max-Q Design (ID=0x1f12)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6089
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001744 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.911 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003669 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2083 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.7 MB.
+System memory in use after: 92.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2521.
+Total: 2.071000 ms (FindLiveObjects: 0.236800 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.708500 ms  DeleteObjects: 0.078200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_02.png
+  artifactKey: Guid(441104a8c0f605344848768adfdd5986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_02.png using Guid(441104a8c0f605344848768adfdd5986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db4c868695b276cd476e43f27104a6d') in 0.112341 seconds
+  Import took 0.115719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_03.png
+  artifactKey: Guid(476326eee0e1f434cbde923ad94311f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_03.png using Guid(476326eee0e1f434cbde923ad94311f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4cc35ad3cef4c1ae265cce09100d4bf') in 0.012628 seconds
+  Import took 0.015569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_04.png
+  artifactKey: Guid(362903f04ceb37845a0f43402bb48422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_04.png using Guid(362903f04ceb37845a0f43402bb48422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970d1e732f84ba05516e412e929d54c6') in 0.014768 seconds
+  Import took 0.017919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_08.png
+  artifactKey: Guid(d182467e69dc06e449d5a6d070eee2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_08.png using Guid(d182467e69dc06e449d5a6d070eee2cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f2a4d6e6f33d8c1c05d5096be95475') in 0.015268 seconds
+  Import took 0.018351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_01.png
+  artifactKey: Guid(4c4fe9145ef0ae146ba007836a6e6906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_01.png using Guid(4c4fe9145ef0ae146ba007836a6e6906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060676e58941ef70d3e1f01e5fa364ba') in 0.013733 seconds
+  Import took 0.016888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Art/ARMORS
+  artifactKey: Guid(bdc18e9b85faed34a8fcbb653424a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS using Guid(bdc18e9b85faed34a8fcbb653424a1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b772efdd577295960a9abc4d7d3638ab') in 0.006072 seconds
+  Import took 0.009086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_07.png
+  artifactKey: Guid(a0368dadc0de6694d8df95e61773a32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_07.png using Guid(a0368dadc0de6694d8df95e61773a32a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c624642b657d150481a1e089ea1b73e') in 0.012450 seconds
+  Import took 0.015539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_05.png
+  artifactKey: Guid(78c028051064f814397580a9a0424a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_05.png using Guid(78c028051064f814397580a9a0424a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a2ea75d0bcaba5e57baad1bb6461ce8') in 0.011462 seconds
+  Import took 0.015166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Art/ARMORS/NICKNEWGAME_ARMORS_06.png
+  artifactKey: Guid(221194b4216fcda4fb2379438f33f779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/ARMORS/NICKNEWGAME_ARMORS_06.png using Guid(221194b4216fcda4fb2379438f33f779) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb93bce9ad6393b146dcf50fccafbf10') in 0.014408 seconds
+  Import took 0.017790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.840432 seconds.
+  path: Assets/Art/Blacksmiths/Background.png
+  artifactKey: Guid(0d1231a7f6e1fbb4695b894e664e3b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/Background.png using Guid(0d1231a7f6e1fbb4695b894e664e3b79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236e8da372274221963b127d33d40123') in 0.023823 seconds
+  Import took 0.028069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Art/Blacksmiths/BS2 Anim 1.png
+  artifactKey: Guid(8bdc7de2b08d4c9449a98da528729205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS2 Anim 1.png using Guid(8bdc7de2b08d4c9449a98da528729205) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868b05e32a2baf8c8e621f46ad3ca844') in 0.014213 seconds
+  Import took 0.017275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/Blacksmiths/BS Anim 5.png
+  artifactKey: Guid(904e2150b64673646b3c5f2a8a8f1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS Anim 5.png using Guid(904e2150b64673646b3c5f2a8a8f1a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d4b6af4e03fce67f438beba7793db05') in 0.017571 seconds
+  Import took 0.020834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/Blacksmiths/BS Anim 3.png
+  artifactKey: Guid(e52356a7770bb9c48a1347582d636586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS Anim 3.png using Guid(e52356a7770bb9c48a1347582d636586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d59f494da0a1c18232a34c02a5ef1f3') in 0.018392 seconds
+  Import took 0.021544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Art/Blacksmiths/BS2 Anim 2.png
+  artifactKey: Guid(56cf3b0dfe7b1994da7e515ca6cb2407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS2 Anim 2.png using Guid(56cf3b0dfe7b1994da7e515ca6cb2407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76903603d69b9cbdfbc70a4564c4cb76') in 0.019290 seconds
+  Import took 0.022291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/Blacksmiths/BS Anim 2.png
+  artifactKey: Guid(83d2b78e7272421408dc094302cb1c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS Anim 2.png using Guid(83d2b78e7272421408dc094302cb1c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7817f13355f5ba1e01ea8416746ff43') in 0.015493 seconds
+  Import took 0.018870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Blacksmiths/Sign Letters.png
+  artifactKey: Guid(4ad6b35a0bc952a46bcec01bf9e35676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/Sign Letters.png using Guid(4ad6b35a0bc952a46bcec01bf9e35676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '776d56ac47e823d9d64d527ba75c0102') in 0.018954 seconds
+  Import took 0.022013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Blacksmiths/BS2 Anim 3.png
+  artifactKey: Guid(21cc85d65fa556642b3bbacbe421dee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS2 Anim 3.png using Guid(21cc85d65fa556642b3bbacbe421dee8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f23d8b85226da5f366434b0e7c0f99') in 0.019721 seconds
+  Import took 0.023095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Art/Blacksmiths/BS2 Anim 4.png
+  artifactKey: Guid(4c0f9aadf60f2ac49b6375c077b2634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS2 Anim 4.png using Guid(4c0f9aadf60f2ac49b6375c077b2634d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13439a72040dc834c8446c144ea7d74') in 0.016742 seconds
+  Import took 0.019700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Art/Blacksmiths/BS Anim 4.png
+  artifactKey: Guid(3b4629f698bcc3a4f8edaab7b3db2dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS Anim 4.png using Guid(3b4629f698bcc3a4f8edaab7b3db2dfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '023fb02a132abe5d08a51db063c6bd37') in 0.014783 seconds
+  Import took 0.018066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/Blacksmiths/Booth.png
+  artifactKey: Guid(82dde869b4dcf9f48a0ff2237bba74bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/Booth.png using Guid(82dde869b4dcf9f48a0ff2237bba74bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ce3b99f5e62c131e4538ffff9b9467') in 0.017365 seconds
+  Import took 0.020560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Art/Blacksmiths/BS Anim 1.png
+  artifactKey: Guid(2e2710274da37b943b50cca5b82c6057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/BS Anim 1.png using Guid(2e2710274da37b943b50cca5b82c6057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f98992dc4c22a259390b25b301df88') in 0.017525 seconds
+  Import took 0.020750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/Blacksmiths/Booth.png
+  artifactKey: Guid(82dde869b4dcf9f48a0ff2237bba74bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/Booth.png using Guid(82dde869b4dcf9f48a0ff2237bba74bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ce3b99f5e62c131e4538ffff9b9467') in 0.012365 seconds
+  Import took 0.015683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Art/Blacksmiths/Sign.png
+  artifactKey: Guid(6c17d04b892851b4ab47939721be1324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths/Sign.png using Guid(6c17d04b892851b4ab47939721be1324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b26db1e7829a578bdd081703a3f9e2e5') in 0.016745 seconds
+  Import took 0.019838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Art/Blacksmiths
+  artifactKey: Guid(c0339a0c815e60e42b7065ea37fe9df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Blacksmiths using Guid(c0339a0c815e60e42b7065ea37fe9df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a490182af76b2422bd00500b8e784fc') in 0.005365 seconds
+  Import took 0.008926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.764799 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_01.png
+  artifactKey: Guid(07116a2241e5f3a4c9fabece01e8c388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_01.png using Guid(07116a2241e5f3a4c9fabece01e8c388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b7f43f8eb8c2e7f2fcedd1a1d87781') in 0.013603 seconds
+  Import took 0.017777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_04.png
+  artifactKey: Guid(52cccc41d37cd224db786883bcd77700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_04.png using Guid(52cccc41d37cd224db786883bcd77700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa8b7c762d4c7c17ec253766ffc6691') in 0.014957 seconds
+  Import took 0.019248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_05.png
+  artifactKey: Guid(0e0913aeef6f5b34da50b1dbcd230226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_05.png using Guid(0e0913aeef6f5b34da50b1dbcd230226) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905280c4012288abfc80db6273306980') in 0.014046 seconds
+  Import took 0.017011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_08.png
+  artifactKey: Guid(5d9c7244ac0c13944a68e9e3530a5a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_08.png using Guid(5d9c7244ac0c13944a68e9e3530a5a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1101ace6fd03ad417e448feb0a349e') in 0.016885 seconds
+  Import took 0.020043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_06.png
+  artifactKey: Guid(261ad1e675ebce347a7b83e44230c1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_06.png using Guid(261ad1e675ebce347a7b83e44230c1c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1df0742803cf0a7ccd9a79e8c7c446fb') in 0.014372 seconds
+  Import took 0.017917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_02.png
+  artifactKey: Guid(533d410e02b78d047933fcb3c8abde96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_02.png using Guid(533d410e02b78d047933fcb3c8abde96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d998fa6a4db10b0a077a1130f747c7e') in 0.016672 seconds
+  Import took 0.019760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_03.png
+  artifactKey: Guid(44507cd9dbdb69b40ac185ddb68c7eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_03.png using Guid(44507cd9dbdb69b40ac185ddb68c7eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be999468d68fbc0eedfd06d1690f4a6') in 0.017975 seconds
+  Import took 0.020999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_02.png
+  artifactKey: Guid(533d410e02b78d047933fcb3c8abde96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_02.png using Guid(533d410e02b78d047933fcb3c8abde96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d998fa6a4db10b0a077a1130f747c7e') in 0.011666 seconds
+  Import took 0.014914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_03.png
+  artifactKey: Guid(44507cd9dbdb69b40ac185ddb68c7eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_03.png using Guid(44507cd9dbdb69b40ac185ddb68c7eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1be999468d68fbc0eedfd06d1690f4a6') in 0.014371 seconds
+  Import took 0.017640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_07.png
+  artifactKey: Guid(f3d488dcb30771e4cb0b30b49059743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DAGGERS/NICKNEWGAME_DAGGER_07.png using Guid(f3d488dcb30771e4cb0b30b49059743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfb01de031e9d07b44d3785f5c4f165') in 0.015563 seconds
+  Import took 0.019199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.625977 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_01.png
+  artifactKey: Guid(76e3e23483950094fa738d6e06a52ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_01.png using Guid(76e3e23483950094fa738d6e06a52ffa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2016cd395ff69322578cc9b3eb4b90e7') in 0.012857 seconds
+  Import took 0.015904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_07.png
+  artifactKey: Guid(c795353b7a1195243b1564a06ca3fe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_07.png using Guid(c795353b7a1195243b1564a06ca3fe12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a3f6e8ba500b9381d2e042ba3ef48d') in 0.018004 seconds
+  Import took 0.021219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_08.png
+  artifactKey: Guid(2dda1d1fdb972054f88be548103bb06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_08.png using Guid(2dda1d1fdb972054f88be548103bb06f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d74b77e97c8892b0b87002684bb1f2') in 0.014488 seconds
+  Import took 0.018102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_02.png
+  artifactKey: Guid(ff8aa8211708e2e4a8cb8b60d4c2e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_02.png using Guid(ff8aa8211708e2e4a8cb8b60d4c2e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2668fe0e6d6fe8212b59d418473c95') in 0.014104 seconds
+  Import took 0.017758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_03.png
+  artifactKey: Guid(f3e49204ed9f0c947b9193466f69e8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_03.png using Guid(f3e49204ed9f0c947b9193466f69e8f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101f788ee4d0afc7fa943bde35040f58') in 0.017193 seconds
+  Import took 0.020508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_02.png
+  artifactKey: Guid(ff8aa8211708e2e4a8cb8b60d4c2e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_02.png using Guid(ff8aa8211708e2e4a8cb8b60d4c2e68a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c2668fe0e6d6fe8212b59d418473c95') in 0.012082 seconds
+  Import took 0.015454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_06.png
+  artifactKey: Guid(a40649bd460cd8143b7c94bb5a66d28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_06.png using Guid(a40649bd460cd8143b7c94bb5a66d28d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a87eed5a848ea96f41fe8b7a16c50919') in 0.015842 seconds
+  Import took 0.019306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_04.png
+  artifactKey: Guid(116a97112e2fd424982946816fc6352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_04.png using Guid(116a97112e2fd424982946816fc6352c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d46e369dc7829b241ded525a138f89a') in 0.012637 seconds
+  Import took 0.015874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_05.png
+  artifactKey: Guid(18fb37a35c6989442bcbcfedb73efbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/GREAT_SWORDS/NICKNEWGAME_GREATSWORD_05.png using Guid(18fb37a35c6989442bcbcfedb73efbc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd60df9ce9765ead60c215b48d4e7f9e') in 0.015051 seconds
+  Import took 0.018172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.468345 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_01.png
+  artifactKey: Guid(0cba15b1db079f64096d061d59d18835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_01.png using Guid(0cba15b1db079f64096d061d59d18835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5558accef62b0c44bb7f153aec2678d') in 0.015475 seconds
+  Import took 0.018701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_08.png
+  artifactKey: Guid(656a26f594243c64c90dca7de2fca26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_08.png using Guid(656a26f594243c64c90dca7de2fca26a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec28a929e8e3d08277ff6a6b588622d7') in 0.016627 seconds
+  Import took 0.020261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_06.png
+  artifactKey: Guid(0ab2e4a905e3d964986b74b4a989a8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_06.png using Guid(0ab2e4a905e3d964986b74b4a989a8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46f025973a58f28a0f4b0e1d5ec6feb') in 0.016289 seconds
+  Import took 0.019496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_04.png
+  artifactKey: Guid(6f8ed97529321384380bcb64e3698d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_04.png using Guid(6f8ed97529321384380bcb64e3698d89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c1687beed1e029f8be1a3e6a85ad9c') in 0.013554 seconds
+  Import took 0.016762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_05.png
+  artifactKey: Guid(740643e17e47d7b4493c8021b213ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_05.png using Guid(740643e17e47d7b4493c8021b213ba62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e93d26ad05124da48d8c79792c18c880') in 0.019623 seconds
+  Import took 0.023283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_07.png
+  artifactKey: Guid(75858ff4a8ffcc041a0e0f3ff8644ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_07.png using Guid(75858ff4a8ffcc041a0e0f3ff8644ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9f645fbc5df3670de8bcf9db14fdc9b') in 0.016143 seconds
+  Import took 0.019679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_03.png
+  artifactKey: Guid(729159498f5f2db40a0228ac230f024e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_03.png using Guid(729159498f5f2db40a0228ac230f024e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b91ca663f9c2bdb4cb0523b47fc56b23') in 0.018460 seconds
+  Import took 0.021878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Art/KATANA/NICKNEWGAME_KATANA_02.png
+  artifactKey: Guid(6ac81495f078d8b4bb249594040389fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/KATANA/NICKNEWGAME_KATANA_02.png using Guid(6ac81495f078d8b4bb249594040389fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d262a25e5bc764724be6dcf700b75b') in 0.019255 seconds
+  Import took 0.022738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.438115 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_01.png
+  artifactKey: Guid(74a4cdee1279a7b4cba2c914f6da758d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_01.png using Guid(74a4cdee1279a7b4cba2c914f6da758d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890633709f423d5290057ec3c6e662c1') in 0.015415 seconds
+  Import took 0.019172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_07.png
+  artifactKey: Guid(a144a77ac4beb0c46becdd0c77b53722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_07.png using Guid(a144a77ac4beb0c46becdd0c77b53722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b5e60d95ad9709f3007fe38ad0c0a44') in 0.013922 seconds
+  Import took 0.016931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_02.png
+  artifactKey: Guid(045d428caf6854d45a81e77db4c81fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_02.png using Guid(045d428caf6854d45a81e77db4c81fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0eeb3958a931588e4d1f96f1295319b') in 0.019089 seconds
+  Import took 0.022479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_08.png
+  artifactKey: Guid(ca07fd500390cdb49b3002e63d34468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_08.png using Guid(ca07fd500390cdb49b3002e63d34468d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84cd5da4d3124c832a480086695a1e55') in 0.013574 seconds
+  Import took 0.016766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_03.png
+  artifactKey: Guid(d39db75a4d350a449b9f06f3e7e5be10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_03.png using Guid(d39db75a4d350a449b9f06f3e7e5be10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b37b3605352e6f165505f2085038b864') in 0.014111 seconds
+  Import took 0.017323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_05.png
+  artifactKey: Guid(7e31d441f2a0d5a4fa3f3da2ec3925be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_05.png using Guid(7e31d441f2a0d5a4fa3f3da2ec3925be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b5ca80c13c587e9d7ca755015ea38c') in 0.014063 seconds
+  Import took 0.017330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_06.png
+  artifactKey: Guid(01a42626a1bb380439746ce45b7a4c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_06.png using Guid(01a42626a1bb380439746ce45b7a4c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f39fc022ed7de835bb03bac39027d7') in 0.013751 seconds
+  Import took 0.016906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_04.png
+  artifactKey: Guid(571b3f6ab86cccb42b3cc85309cf3777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_04.png using Guid(571b3f6ab86cccb42b3cc85309cf3777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9092bf6b5ebde000c990f997b682d67') in 0.018339 seconds
+  Import took 0.021368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002164 seconds.
+  path: Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_04.png
+  artifactKey: Guid(571b3f6ab86cccb42b3cc85309cf3777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/MASTER_WEAPON/NICKNEWGAME_MASTERWEAPONS_04.png using Guid(571b3f6ab86cccb42b3cc85309cf3777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9092bf6b5ebde000c990f997b682d67') in 0.017024 seconds
+  Import took 0.020515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.013453 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_01.png
+  artifactKey: Guid(ecab3a6ba8b4c5b4d9b81b43e9f7db4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_01.png using Guid(ecab3a6ba8b4c5b4d9b81b43e9f7db4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f10d0bfb97383b29dbb7628b7502933') in 0.014502 seconds
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_06.png
+  artifactKey: Guid(7e8ee899e48055f4fbb4b8c2725dc00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_06.png using Guid(7e8ee899e48055f4fbb4b8c2725dc00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f05a2ebddf98fe581cc03f7c9dbcc4b6') in 0.016574 seconds
+  Import took 0.020074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_07.png
+  artifactKey: Guid(3c3552862308cd54384b3f4890d2d260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_07.png using Guid(3c3552862308cd54384b3f4890d2d260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca2751a352387d77d3988866da33abb2') in 0.017680 seconds
+  Import took 0.020874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_02.png
+  artifactKey: Guid(51237f287cd03084f9ff7193d3bab6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_02.png using Guid(51237f287cd03084f9ff7193d3bab6f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e1b195c41cb13d61e78da71c026759') in 0.012927 seconds
+  Import took 0.016009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_03.png
+  artifactKey: Guid(879fb6a9698db0d4995e774bdc367b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_03.png using Guid(879fb6a9698db0d4995e774bdc367b7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b107d240ccad58ac466b30409446bd1') in 0.018197 seconds
+  Import took 0.021418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_04.png
+  artifactKey: Guid(421e5e372c3cd6b4da736050cd80be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_04.png using Guid(421e5e372c3cd6b4da736050cd80be7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '830a637e652402af9aa51e2511412cfd') in 0.013437 seconds
+  Import took 0.016597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_08.png
+  artifactKey: Guid(faf3550112d3f41418df3176a7217a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_08.png using Guid(faf3550112d3f41418df3176a7217a58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05878064332bd2a26e1e05366fe7b498') in 0.014976 seconds
+  Import took 0.018124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Art/SWORDS/NICKNEWGAME_SWORD_05.png
+  artifactKey: Guid(b551b6f593e5aa047852668ee2162eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/SWORDS/NICKNEWGAME_SWORD_05.png using Guid(b551b6f593e5aa047852668ee2162eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5097587ba43bfd7967bfa64332ac9499') in 0.017261 seconds
+  Import took 0.020355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 464.742941 seconds.
+  path: Assets/Scripts/Inventory.cs
+  artifactKey: Guid(f29fd0bb464677649b3a7030cd120798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventory.cs using Guid(f29fd0bb464677649b3a7030cd120798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db698ef3ec955abd49c25df99f18e2c') in 0.017358 seconds
+  Import took 0.021168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007877 seconds.
+  path: Assets/Scripts/Inventory.cs
+  artifactKey: Guid(f29fd0bb464677649b3a7030cd120798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventory.cs using Guid(f29fd0bb464677649b3a7030cd120798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db698ef3ec955abd49c25df99f18e2c') in 0.002563 seconds
+  Import took 0.005751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.591279 seconds.
+  path: Assets/Scripts/MenuController.cs
+  artifactKey: Guid(0f0210369697e53489d94e566c1233b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuController.cs using Guid(0f0210369697e53489d94e566c1233b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6851a60d511bfeef8b40e423e740ffcb') in 0.006918 seconds
+  Import took 0.010491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Scripts/MenuController.cs
+  artifactKey: Guid(0f0210369697e53489d94e566c1233b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MenuController.cs using Guid(0f0210369697e53489d94e566c1233b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6851a60d511bfeef8b40e423e740ffcb') in 0.002115 seconds
+  Import took 0.005027 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003672 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2072 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.2 MB.
+System memory in use after: 95.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2534.
+Total: 2.470100 ms (FindLiveObjects: 0.256800 ms CreateObjectMapping: 0.090400 ms MarkObjects: 2.098500 ms  DeleteObjects: 0.022700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.274737 seconds.
+  path: Assets/Scripts/Contract.cs
+  artifactKey: Guid(4f23d914b113c4644b319994c646f2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Contract.cs using Guid(4f23d914b113c4644b319994c646f2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed09d1e2669a9b7fdd2be32451f59ec0') in 0.008941 seconds
+  Import took 0.012763 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003644 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2071 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.2 MB.
+System memory in use after: 95.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2537.
+Total: 2.098300 ms (FindLiveObjects: 0.252800 ms CreateObjectMapping: 0.093300 ms MarkObjects: 1.729900 ms  DeleteObjects: 0.020500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
